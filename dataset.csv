@@ -1,0 +1,5 @@
+coin,target,money_list,hold,op_mode,yesterday_ma15,open_price
+BTC,1000000000000000,-1,False,False,0,0
+DOGE,1000000000000000,-1,False,False,0,0
+SAND,1000000000000000,-1,False,False,0,0
+MATIC,1000000000000000,-1,False,False,0,0
